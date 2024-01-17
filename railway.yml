@@ -2,4 +2,4 @@ name: EjRailway
 setup: "python38, gcc"
 install: "python -m venv --copies /opt/venv && . /opt/venv/bin/activate && pip install -r requirements.txt"
 start: "npm i"
-start: "python app.py"
+start: "nixpacks start"
