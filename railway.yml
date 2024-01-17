@@ -1,5 +1,5 @@
 # railway.yml
-name: my-python-app
+name: EjRailway
 services:
   - env: python=3.8
     install:
